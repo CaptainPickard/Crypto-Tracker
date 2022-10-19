@@ -1,0 +1,4 @@
+conda install -c conda-forge ta-lib
+conda install -c conda-forge python-binance
+conda install -c anaconda flask
+pip install backtrader

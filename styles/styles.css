@@ -1,0 +1,17 @@
+html {
+  background-image: linear-gradient(to bottom right, rgb(43, 41, 41), rgb(112, 112, 109));
+  }
+
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+  }
