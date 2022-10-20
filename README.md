@@ -6,8 +6,12 @@ This is apersonal project to learn, there is no formal direction for this applic
 
 # To install
 
-Install all libraries from the rquirements.txt into an enviroment, must use conda-forge to insall Backtrader. Or at least the whats I had to do to get it to work... 
+Install from the rquirements.txt into an enviroment, must use conda-forge to insall Backtrader. Or at least thats what I had to do to get it to work... 
 
 Dont forget to add your Binance api keys to the config.py file.
 
 Have Fun!
+
+# Future itterations
+
+I plan to include bootstrap styling to the front end for a cleaner presentation.
